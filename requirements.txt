@@ -1,0 +1,20 @@
+# Neuron Runner - Advanced AI-Themed Endless Runner
+# Core game engine
+pygame>=2.6.0
+
+# Mathematical operations and data handling
+numpy>=1.21.0
+
+# Optional: For future graphical enhancements
+matplotlib>=3.5.0
+
+# Replay system dependencies (for GIF generation)
+imageio>=2.9.0
+pillow>=8.0.0
+
+# AI competition system dependencies
+# scikit-learn>=1.0.0  # For more advanced AI models (optional)
+
+# Development dependencies (optional)
+# black>=21.0.0  # Code formatting
+# flake8>=3.9.0  # Code linting
